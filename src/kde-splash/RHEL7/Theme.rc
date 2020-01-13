@@ -1,0 +1,8 @@
+[KSplash Theme: EL7]
+Name = EL7
+Description = EuroLinux 7 Theme
+Version = 7.1
+Author = EuroLinux
+Homepage = http://www.euro-linux.com
+
+Engine = KSplashX

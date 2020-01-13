@@ -1,0 +1,6 @@
+[KdmGreeterTheme]
+Greeter=rhel7.xml
+Name=EuroLinux 7
+Author=EuroLinux
+Copyright=(C) 2015 EuroLinux
+Screenshot=screenshot.png

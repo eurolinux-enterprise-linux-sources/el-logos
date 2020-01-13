@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=EL7
+X-KDE-PluginInfo-Author=EuroLinux
+X-KDE-PluginInfo-Name=EL7
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=RHEL7
+defaultFileSuffix=.jpg
+defaultWidth=2560
+defaultHeight=1600
